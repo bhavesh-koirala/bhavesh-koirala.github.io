@@ -1,14 +1,8 @@
 # Jekyll Theme - Mundana by WowThemes.net
 
-[Visit-Website](https:bhavesh-koirala.github.io) &nbsp; | &nbsp; 
-[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
+[Visit-Website](https://bhavesh-koirala.github.io) &nbsp; | &nbsp; 
 
 ![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
-
-### Documentation
-
-[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
 
 ### Contribute to Mundana repository
 
