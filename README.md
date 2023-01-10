@@ -1,4 +1,4 @@
-# Jekyll Theme - Mundana by WowThemes.net
+# My Website :)
 
 [Visit-Website](https://bhavesh-koirala.github.io/) &nbsp; | &nbsp; 
 
