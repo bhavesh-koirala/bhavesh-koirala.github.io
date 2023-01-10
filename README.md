@@ -1,1 +1,0 @@
-# bhavesh-koirala.github.io
