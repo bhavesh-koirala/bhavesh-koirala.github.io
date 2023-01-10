@@ -1,6 +1,6 @@
 # Jekyll Theme - Mundana by WowThemes.net
 
-[Visit-Website](https://bhavesh-koirala.github.io) &nbsp; | &nbsp; 
+[Visit-Website](https://bhavesh-koirala.github.io/) &nbsp; | &nbsp; 
 
 ![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
 
