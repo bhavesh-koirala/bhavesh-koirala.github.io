@@ -2,7 +2,7 @@
 
 [Visit-Website](https://bhavesh-koirala.github.io/) &nbsp; | &nbsp; 
 
-![theme](assets/luffy.gif)
+![theme](Readme_intro/luffy.gif)
 
 ## Credits
 
