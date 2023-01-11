@@ -6,6 +6,5 @@
 
 ## Credits
 
-[aksakalli](https://github.com/aksakalli/jekyll-doc-theme) &nbsp; | &nbsp; 
-
+[learn more about me] (link)
 
