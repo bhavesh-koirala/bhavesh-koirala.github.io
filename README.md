@@ -6,5 +6,9 @@
 
 ## Extras!
 
-[learn more about me] (link)
+[learn more about me] (link
+
+## Credits
+
+[mattvh] (https://github.com/mattvh/jekyllthemes.git) &nbsp; | &nbsp;
 
