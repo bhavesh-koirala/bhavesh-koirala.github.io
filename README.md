@@ -4,7 +4,7 @@
 
 ![theme](Readme_intro/luffy.gif)
 
-## Credits
+## Extras!
 
 [learn more about me] (link)
 
