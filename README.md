@@ -10,5 +10,5 @@
 
 ## Credits
 
-![mattvh] (https://github.com/mattvh/jekyllthemes.git) &nbsp; | &nbsp;
+![mattvh](https://github.com/mattvh/jekyllthemes.git) &nbsp; | &nbsp;
 
