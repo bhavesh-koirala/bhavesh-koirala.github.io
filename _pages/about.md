@@ -1,14 +1,12 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: Bhavesh Koirala
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+I am Bhavesh Koirala, studying Computer Engineering at University of Texas at Dallas. Currently on my Freshman year of college and I feel as though I am on the right path but accomplished a small fraction of my potential. 
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident.
