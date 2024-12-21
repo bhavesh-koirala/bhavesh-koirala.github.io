@@ -2,18 +2,18 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: My Portfolio
 logo:
-author: themefisher
+author: Bhavesh Koirala
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: bkoirala2004@gmail.com
+phone: 682-359-6773
+address: 3000 Northside Blvd, Apt 2-336, Richardson, TX 75080
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
+#  - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Bhavesh <br> Computer Engineering student.
 
 social:
   - { icon: "ti-facebook", link: "#" }
@@ -48,7 +48,8 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: I like designing PCB's and building it into a working device. As a computer engineering student I am passionate about working with embedded systems from the design, development and testing. I also really like video editing and outreach in general.
+
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -123,24 +124,14 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Bachelor of Science in Computer Engineering,
+      date: "2022 - Present",
+      organization: "University of Texas at Dallas",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
-    }
-  - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      name: High School Diploma,
+      date: "2018 - 2022",
+      organization: "Fossil Ridge High School",
     }
 
 #-------------------------------
@@ -246,58 +237,60 @@ portfolio-items:
 #-------------------------------
 # Testimonials Section
 
-testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#testimonial-items:
+#  - name: "Jesica Gomez"
+#    image: "assets/images/testimonial/client-1.png"
+#    designation: "CEO, Funder"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#
+#  - name: "Jesica Gomez"
+#    image: "assets/images/testimonial/client-1.png"
+#    designation: "CEO, Funder"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#
+#  - name: "Jesica Gomez"
+#    image: "assets/images/testimonial/client-1.png"
+#    designation: "CEO, Funder"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 #-------------------------------
 # Client Slider Section
 
-client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+#client-slider-items:
+#  - logo: "assets/images/clients-logo/client-logo-1.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-2.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-3.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-4.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-5.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-1.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-2.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-3.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-4.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-5.png"
+#    url: "#"
 
 #-------------------------------
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: bkoirala2004@gmail.com
+contact-phone: 682-359-6773
+contact-address: 3000 Northside Blvd, Apt 2-336, Richardson, TX 75080
